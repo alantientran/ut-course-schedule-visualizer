@@ -3,11 +3,11 @@ Visualize Your Course Schedule, Simplify Your Success
 
 ## Overview
 
-**ut-course-schedule-visualizer** is a powerful tool designed to streamline the management of course schedule variations through an intuitive interface, making it easier for users to organize their academic life.
+**UT Course Schedule Visualizer** is a powerful tool designed to streamline the management of course schedule variations through an intuitive interface, making it easier for users to organize their academic life.
 
-**Why ut-course-schedule-visualizer?**
+**Why UTCSV?**
 
-This project aims to enhance productivity and organization for students and educators alike. The core features include:
+This site aims to enhance productivity and organization for students and educators alike. The core features include:
 -  📅 Dynamic Schedule Generation: Automatically creates permutations of class schedules based on user-defined criteria, saving time and effort.
 -  🎨 User-Friendly Interface: Simplifies course management, allowing users to filter through different class schedules
 -  🔄 Drag-and-Drop Functionality: Allows easy organization of classes, addressing the common pain point of cumbersome scheduling.
