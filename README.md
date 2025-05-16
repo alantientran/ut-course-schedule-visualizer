@@ -13,6 +13,9 @@ This project aims to enhance productivity and organization for students and educ
 -  🔄 Drag-and-Drop Functionality: Allows easy organization of classes, addressing the common pain point of cumbersome scheduling.
 -  📚 Comprehensive Help Resources: Provides clear guidance, reducing the learning curve and improving overall usability.
 
+## View the Demo [![Click image to view video demo](https://drive.google.com/file/d/1AgKKQhHlJzsBz8PtKwnNyEg-sRh77xdN/view?usp=sharing)](https://www.youtube.com/watch?v=uGtNqta8BOM)
+ [Here]()
+
 ## Prerequisites
 
 This project requires the following dependencies:
